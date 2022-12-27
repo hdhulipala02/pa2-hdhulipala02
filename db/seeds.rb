@@ -19,7 +19,7 @@ more_movies = [
   {:title => 'CODA', :rating => 'PG-13',
     :release_date => '13-Aug-2021'}
     {:title => 'Harry Potter', :rating => 'PG',
-    :release_date => '10-May-2001'}  
+    :release_date => '10-May-2001'},
 ]
 
 more_movies.each do |movie|
